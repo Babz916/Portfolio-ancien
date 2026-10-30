@@ -213,6 +213,8 @@ Points de rupture à 1024, 860, 720, 600 et 480 px : la navigation devient un me
 
 ## Auteur
 
-[À compléter : nom, formation, contact]
+**Bastien Roubille**
 
-Projet personnel. [À compléter : licence ou mention « tous droits réservés »]
+Projet personnel. © 2026 Bastien Roubille — Tous droits réservés.
+
+Le code source et le design de ce projet ne peuvent pas être réutilisés, modifiés ou redistribués sans mon autorisation préalable.
